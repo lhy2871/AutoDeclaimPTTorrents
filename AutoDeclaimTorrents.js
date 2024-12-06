@@ -2,7 +2,7 @@
 // @name            一键取消认领种子
 // @name:en         torrents declaim
 // @namespace       https://hanyuan6.cn
-// @version         0.1
+// @version         1.0
 // @description     一键取消所有已经认领的种子，在下载器中大量删除种子后可以使用
 // @description:en  one key declaim all the seeding torrents
 // @author          Hanyuan Liu
