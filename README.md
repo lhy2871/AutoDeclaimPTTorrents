@@ -6,7 +6,7 @@
 2.打开一键取消认领种子脚本下载页面点击 点此直接跳转到脚本安装页面
 3.安装完毕后，刷新网页，点击网站首页个人分享率那一行最后“认领”关键词后的[xxx/10000]处进入已认领种子列表
 4.进入已认领种子列表后，可在列表左上角ID表头上方看到 标红的 一键取消认领 按钮 ，点击后按照提示进行二次确认，接着等待脚本运行即可，取消认领完毕该页所有种子之后会弹出完成提示，如有多页种子需要取消认领，则翻页后重复上述操作，直到完成取消认领完最后一页的种子。
-![image](https://github.com/lhy2871/AutoDeclaimPTTorrents/blob/Main/autodeclaim_screen_nowebsite)
+![image](https://github.com/lhy2871/AutoDeclaimPTTorrents/blob/Main/autodeclaim_screen_nowebsite.jpg)
 
 补充：如果在已认领种子页面中没有看到红色 一键取消认领 按钮，请强制刷新 CTRL+F5 或者安装后彻底关闭所有浏览器重新进入，等待网页加载完毕后应能正确显示。
 
